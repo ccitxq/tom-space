@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://192.168.172.166./svn/maven"
+   revision="25623"
+   last-author="xieguorun"
+   url="https://192.168.172.166./svn/maven/app-common-db-mongo/trunk"
+   uuid="6db7b590-3e44-574f-9c8d-43438cef6760"
+   committed-rev="18283"
+   kind="dir"
+   committed-date="2013-08-14T08:05:09.422914Z"/>
+<entry
+   name="pom.xml"
+   checksum="4d1cc8b18dd2e15efe6b1221b7aec31d"
+   last-author="xieguorun"
+   text-time="2013-08-14T08:05:09.000000Z"
+   committed-rev="18283"
+   kind="file"
+   committed-date="2013-08-14T08:05:09.422914Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>
